@@ -1,6 +1,0 @@
-{
-  "projects": {
-    "staging": "odo-app",
-    "default": "odo-app"
-  }
-}
